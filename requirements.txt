@@ -6,3 +6,4 @@ tiktoken
 sentence-transformers
 pydantic
 pdfplumber
+uvicorn[standard]
