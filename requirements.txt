@@ -1,9 +1,6 @@
-faiss-cpu
-numpy
-pandas
-openai
-tiktoken
-sentence-transformers
-pydantic
-pdfplumber
-uvicorn[standard]
+fastapi==0.115.8
+uvicorn[standard]==0.30.6
+pydantic==2.12.5
+numpy==2.4.2
+faiss-cpu==1.13.2
+sentence-transformers==5.2.2
