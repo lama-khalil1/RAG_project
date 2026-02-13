@@ -1,0 +1,6 @@
+faiss-cpu
+numpy
+pandas
+openai
+tiktoken
+pdfplumber
